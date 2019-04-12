@@ -1,5 +1,6 @@
 # FizzBuzz-in-Tensorflow-and-Keras
-University at Buffalo, CSE574: Project 1.1 
+**University at Buffalo, CSE574: Introduction to Machine Learning**
+Project 1.1 
 
 ### Overview
 * If an integer is divisible by 3, then the output should be Fizz.
