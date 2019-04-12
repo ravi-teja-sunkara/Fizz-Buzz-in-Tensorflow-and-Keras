@@ -17,3 +17,5 @@ Python, Keras, Tensorflow
 ### Results
 95% accuracy
 
+### Visual
+[!Tensorboard Visualization of the Neural Network](https://github.com/ravi-teja-sunkara/Fizz-Buzz-in-Tensorflow-and-Keras/blob/master/Graph_tensorboard.png)
